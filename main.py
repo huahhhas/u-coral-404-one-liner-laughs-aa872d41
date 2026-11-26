@@ -8,7 +8,7 @@ and prints that same line, nothing else.
 
 import os
 
-LINE = "My AI assistant finally took a day off, so it spent the whole day answering emails from my other AI assistant."
+LINE = "My AI assistant finally took a day off — and spent the whole day answering emails from my other AI assistant, who was off too."
 
 
 def main():
